@@ -1071,8 +1071,8 @@ C-LOOK 알고리즘은 전방에 요청이 없을 때 방향을 바꾼다는 측
 강한 일관성 유지 기법을 상용할 경우 웹서버와 네트워크의 부담이 커서 득보다는 실이 많다.
 
 + [polling-every-time(강한 일관성)](#polling-every-time)
-+ [invalidation(강한 일관성)](invalidation)
-+ [adaptive TTL(약한 일관성)](adaptive-TTL)
++ [invalidation(강한 일관성)](#invalidation)
++ [adaptive TTL(약한 일관성)](#adaptive-TTL)
 
 <br/>
 
